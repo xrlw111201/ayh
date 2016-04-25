@@ -1,0 +1,10 @@
+bin/
+proj.android/
+proj.android_bak/
+proj.android-studio/
+cocos2d/
+*.a
+proj.linux/
+proj.win8.1-universal/
+proj.win10/
+proj.win32
